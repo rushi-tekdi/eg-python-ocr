@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  ocr:
+    build: .
+    ports:
+      - "7000:7000"
+    volumes:
+      - ./uploads:/app/uploads
