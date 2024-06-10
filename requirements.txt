@@ -6,3 +6,12 @@ python-multipart==0.0.9
 starlette==0.26.1
 typing_extensions==4.11.0
 uvicorn==0.22.0
+pdfplumber
+pandas
+pillow
+tabula-py
+jpype1
+opencv-python-headless
+img2table
+requests
+img2data
